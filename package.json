@@ -1,6 +1,6 @@
 {
-  "name": "m00vie_searcher",
-  "homepage": "http://vulpes1337.github.io",
+  "name": "m00viesearcher",
+  "homepage": "https://m00viesearcher.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
