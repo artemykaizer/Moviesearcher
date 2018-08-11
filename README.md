@@ -1,3 +1,14 @@
+Homepage - https://m00viesearcher.herokuapp.com/
+
+This is an application for searching and saving movies.
+Favorite movies will be saved in the local storage.
+
+[API](https://www.themoviedb.org/documentation/api/)
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
