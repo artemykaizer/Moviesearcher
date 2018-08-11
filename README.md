@@ -6,7 +6,7 @@ Favorite movies will be saved in the local storage.
 [API](https://www.themoviedb.org/documentation/api/)
 
 
-
+---
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
