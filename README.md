@@ -3,7 +3,7 @@ Homepage - https://m00viesearcher.herokuapp.com/
 This is an application for searching and saving movies.
 Favorite movies will be saved in the local storage.
 
-[API](https://www.themoviedb.org/documentation/api/)
+[API](https://www.themoviedb.org/documentation/api/)<br>
 Stack - React, Redux, React Router v4
 
 ---
